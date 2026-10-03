@@ -1,0 +1,5 @@
+**/*secrets*
+**/*.pem
+**/*.key
+**/*token*
+.DS_STORE
